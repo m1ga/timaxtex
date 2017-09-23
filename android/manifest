@@ -2,8 +2,8 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 1.0
-apiversion: 2
+version: 1.0.1
+apiversion: 3
 description: Get the GL_MAX_TEXTURE_SIZE size
 author: Michael Gangolf
 license: Apache License, Version 2.0
@@ -15,5 +15,5 @@ name: timaxtex
 moduleid: miga.timaxtex
 guid: aa30730e-b79b-4e63-9eb1-3484b2682e76
 platform: android
-minsdk: 5.0.0.GA
-architectures: armeabi armeabi-v7a x86
+minsdk: 6.0.3.GA
+architectures: armeabi-v7a x86
