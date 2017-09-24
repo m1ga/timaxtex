@@ -1,0 +1,8 @@
+"/Users/ingrowth/Documents/Projects/timaxtex/android/src/miga/timaxtex/TiMaxTexModule.java"
+"/Users/ingrowth/Documents/Projects/timaxtex/android/build/generated/java/miga/timaxtex/TimaxtexBootstrap.java"
+"/Users/ingrowth/Documents/Projects/timaxtex/android/build/generated/r/android/support/compat/R.java"
+"/Users/ingrowth/Documents/Projects/timaxtex/android/build/generated/r/android/support/design/R.java"
+"/Users/ingrowth/Documents/Projects/timaxtex/android/build/generated/r/android/support/v7/appcompat/R.java"
+"/Users/ingrowth/Documents/Projects/timaxtex/android/build/generated/r/android/support/v7/cardview/R.java"
+"/Users/ingrowth/Documents/Projects/timaxtex/android/build/generated/r/miga/timaxtex/R.java"
+"/Users/ingrowth/Documents/Projects/timaxtex/android/build/generated/r/ti/modules/titanium/ui/R.java"
